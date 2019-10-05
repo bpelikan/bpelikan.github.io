@@ -4,11 +4,11 @@ theme: jekyll-theme-minimal
 repositoryName: bpelikan.github.io
 url: https://bpelikan.github.io/
 homepageUrl: https://bpelikan.github.io/
+logo: https://avatars1.githubusercontent.com/u/24376947?s=460&v=4
 google_analytics: UA-149452518-1
 
 github:
   repository_url: https://github.com/bpelikan
-  repository_nwo: Opis
   is_project_page: false
   is_user_page: true
   owner_url: https://github.com/bpelikan
