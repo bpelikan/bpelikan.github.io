@@ -40,19 +40,24 @@
 
         <p class="view">
           {% if site.githubProfile %}
-          <a href="{{ site.githubProfile }}" target="_blank"><i data-feather="github"></i></a>
+          <a href="{{ site.githubProfile }}" target="_blank"><img src="/assets/img/GitHub.png" alt="GitHub icon" height="24" width="24"></a>
           {% endif %}
 
           {% if site.linkedinProfile %}
-          <a href="{{ site.linkedinProfile }}" target="_blank"><i data-feather="linkedin"></i></a>
+          <a href="{{ site.linkedinProfile }}" target="_blank"><img src="/assets/img/LI-In-Bug.png" alt="LinkedIn icon" height="24" width="28"></a>
+          {% endif %}
+
+          {% if site.stackoverflowProfile %}
+          <a href="{{ site.stackoverflowProfile }}" target="_blank"><img src="/assets/svg/stackoverflow.svg" alt="Stackoverflow icon" height="24" width="24"></a>
           {% endif %}
         <p class="view">
-        {% if site.pluralsightProfile %}
-        <p class="view"><a href="{{ site.pluralsightProfile }}" target="_blank">Pluralsight</a></p>
-        {% endif %}
 
         {% if site.MSLearnProfile %}
         <p class="view"><a href="{{ site.MSLearnProfile }}" target="_blank">MS Learn</a></p>
+        {% endif %}
+            
+        {% if site.pluralsightProfile %}
+        <p class="view"><a href="{{ site.pluralsightProfile }}" target="_blank"><img src="/assets/img/PS_logo_F-01.png" alt="Pluralsight logo" height="60%" width="60%"></a></p>
         {% endif %}
         
       </header>
@@ -68,7 +73,7 @@
         <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script> -->
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
@@ -80,8 +85,8 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
-    <script>
+    <!-- <script>
       feather.replace()
-    </script>
+    </script> -->
   </body>
 </html>
