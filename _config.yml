@@ -6,10 +6,14 @@ url: https://bpelikan.github.io/
 homepageUrl: https://bpelikan.github.io/
 logo: https://avatars1.githubusercontent.com/u/24376947?s=460&v=4
 google_analytics: UA-149452518-1
+githubProfile: https://github.com/bpelikan
+linkedinProfile: https://www.linkedin.com/in/bartoszpelikan/
+pluralsightProfile: https://app.pluralsight.com/profile/bpelikan
+MSLearnProfile: http://docs.microsoft.com/users/bpelikan
 
 github:
   repository_url: https://github.com/bpelikan
   is_project_page: false
-  is_user_page: true
+  is_user_page: false
   owner_url: https://github.com/bpelikan
   owner_name: Bartosz Pelikan
