@@ -1,8 +1,15 @@
 title: Welcome to my page!
-theme: jekyll-theme-leap-day
+description: 
+theme: jekyll-theme-minimal
 repositoryName: bpelikan.github.io
 url: https://bpelikan.github.io/
 homepageUrl: https://bpelikan.github.io/
+google_analytics: UA-149452518-1
 
 github:
   repository_url: https://github.com/bpelikan
+  repository_nwo: Opis
+  is_project_page: false
+  is_user_page: true
+  owner_url: https://github.com/bpelikan
+  owner_name: Bartosz Pelikan
