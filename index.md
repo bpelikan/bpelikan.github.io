@@ -15,3 +15,9 @@ layout: default
 
 ---
 
+[Microsoft Azure – Zrozum WSZYSTKIE Usługi](https://szkolachmury.pl/product/microsoft-azure-zrozum-wszystkie-uslugi/){:target="_blank"}
+
+[Microsoft Azure – Zbuduj Silne Fundamenty](https://szkolachmury.pl/product/microsoft-azure-zbuduj-silne-fundamenty/){:target="_blank"}
+
+---
+
