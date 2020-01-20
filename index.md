@@ -7,7 +7,7 @@ layout: default
 
 [KubernetesNotes](https://bpelikan.github.io/KubernetesNotes/)
 
-[AzureLearningNotes](https://bpelikan.github.io/AzureLearningNotes/)
+<!-- [AzureLearningNotes](https://bpelikan.github.io/AzureLearningNotes/) -->
 
 [WTFNotes](https://bpelikan.github.io/WTFNotes/)
 
