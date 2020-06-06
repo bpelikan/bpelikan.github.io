@@ -5,13 +5,15 @@ layout: default
 
 ---
 
-[KubernetesNotes](https://bpelikan.github.io/KubernetesNotes/)
+[Kubernetes Notes](https://bpelikan.github.io/KubernetesNotes/)
 
 <!-- [AzureLearningNotes](https://bpelikan.github.io/AzureLearningNotes/) -->
 
-[WTFNotes](https://bpelikan.github.io/WTFNotes/)
+[WTF Notes](https://bpelikan.github.io/WTFNotes/)
 
 ---
+
+[Google Cloud Platform – Droga Architekta](https://szkolachmury.pl/kursy/google-cloud-platform/){:target="_blank"}
 
 [Kubernetes dla każdego – sztuka konteneryzacji](https://szkolachmury.pl/kursy/kontenery-k8s/){:target="_blank"}
 
