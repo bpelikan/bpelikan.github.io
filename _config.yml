@@ -1,4 +1,4 @@
-title: BPelikan
+title: Bartosz Pelikan
 description: 
 theme: jekyll-theme-minimal
 repositoryName: bpelikan.github.io
@@ -15,7 +15,7 @@ stackoverflowProfile: https://stackoverflow.com/users/7906945/
 
 github:
   repository_url: https://github.com/bpelikan
-  is_project_page: false
-  is_user_page: true
+  is_project_page: true
+  is_user_page: false
   owner_url: https://github.com/bpelikan
   owner_name: Bartosz Pelikan
