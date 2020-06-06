@@ -5,6 +5,8 @@ layout: default
 
 ---
 
+[Google Cloud Platform Labs Notes](https://bpelikan.github.io/GCPLabsNotes/)
+
 [Kubernetes Notes](https://bpelikan.github.io/KubernetesNotes/)
 
 <!-- [AzureLearningNotes](https://bpelikan.github.io/AzureLearningNotes/) -->
