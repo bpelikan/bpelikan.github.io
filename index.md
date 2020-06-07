@@ -5,7 +5,7 @@ layout: default
 
 ---
 
-[Google Cloud Platform Labs Notes](https://bpelikan.github.io/GCPLabsNotes/)
+[Google Cloud Platform Labs Notes](https://bpelikan.github.io/qwiklabs-notes/)
 
 [Kubernetes Notes](https://bpelikan.github.io/KubernetesNotes/)
 
