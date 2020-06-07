@@ -5,13 +5,13 @@ layout: default
 
 ---
 
-[Google Cloud Platform Labs Notes](https://bpelikan.github.io/qwiklabs-notes/)
+[Google Cloud Platform Labs Notes](https://bpelikan.github.io/qwiklabs-notes/){:target="_blank"}
 
-[Kubernetes Notes](https://bpelikan.github.io/KubernetesNotes/)
+[Kubernetes Notes](https://bpelikan.github.io/KubernetesNotes/){:target="_blank"}
 
 <!-- [AzureLearningNotes](https://bpelikan.github.io/AzureLearningNotes/) -->
 
-[WTF Notes](https://bpelikan.github.io/WTFNotes/)
+[WTF Notes](https://bpelikan.github.io/WTFNotes/){:target="_blank"}
 
 ---
 
