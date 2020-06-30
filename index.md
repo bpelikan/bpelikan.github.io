@@ -5,7 +5,7 @@ layout: default
 
 ---
 
-[QwikLabs Notes](https://bpelikan.github.io/qwiklabs-notes/){:target="_blank"}
+<!-- [QwikLabs Notes](https://bpelikan.github.io/qwiklabs-notes/){:target="_blank"} -->
 
 [Kubernetes Notes](https://bpelikan.github.io/KubernetesNotes/){:target="_blank"}
 
